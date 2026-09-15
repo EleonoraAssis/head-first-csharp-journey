@@ -1,0 +1,15 @@
+C:\Backup\Estudos\Linguagens_programacao\C#\head-first-csharp-journey\src\MatchGame\MatchGame\bin\Debug\MatchGame.exe.config
+C:\Backup\Estudos\Linguagens_programacao\C#\head-first-csharp-journey\src\MatchGame\MatchGame\bin\Debug\MatchGame.exe
+C:\Backup\Estudos\Linguagens_programacao\C#\head-first-csharp-journey\src\MatchGame\MatchGame\bin\Debug\MatchGame.pdb
+C:\Backup\Estudos\Linguagens_programacao\C#\head-first-csharp-journey\src\MatchGame\MatchGame\obj\Debug\MatchGame.csproj.AssemblyReference.cache
+C:\Backup\Estudos\Linguagens_programacao\C#\head-first-csharp-journey\src\MatchGame\MatchGame\obj\Debug\MainWindow.g.cs
+C:\Backup\Estudos\Linguagens_programacao\C#\head-first-csharp-journey\src\MatchGame\MatchGame\obj\Debug\App.g.cs
+C:\Backup\Estudos\Linguagens_programacao\C#\head-first-csharp-journey\src\MatchGame\MatchGame\obj\Debug\MatchGame_MarkupCompile.cache
+C:\Backup\Estudos\Linguagens_programacao\C#\head-first-csharp-journey\src\MatchGame\MatchGame\obj\Debug\MatchGame_MarkupCompile.lref
+C:\Backup\Estudos\Linguagens_programacao\C#\head-first-csharp-journey\src\MatchGame\MatchGame\obj\Debug\MainWindow.baml
+C:\Backup\Estudos\Linguagens_programacao\C#\head-first-csharp-journey\src\MatchGame\MatchGame\obj\Debug\MatchGame.g.resources
+C:\Backup\Estudos\Linguagens_programacao\C#\head-first-csharp-journey\src\MatchGame\MatchGame\obj\Debug\MatchGame.Properties.Resources.resources
+C:\Backup\Estudos\Linguagens_programacao\C#\head-first-csharp-journey\src\MatchGame\MatchGame\obj\Debug\MatchGame.csproj.GenerateResource.cache
+C:\Backup\Estudos\Linguagens_programacao\C#\head-first-csharp-journey\src\MatchGame\MatchGame\obj\Debug\MatchGame.csproj.CoreCompileInputs.cache
+C:\Backup\Estudos\Linguagens_programacao\C#\head-first-csharp-journey\src\MatchGame\MatchGame\obj\Debug\MatchGame.exe
+C:\Backup\Estudos\Linguagens_programacao\C#\head-first-csharp-journey\src\MatchGame\MatchGame\obj\Debug\MatchGame.pdb
